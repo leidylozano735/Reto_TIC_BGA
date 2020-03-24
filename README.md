@@ -47,6 +47,7 @@ Describir un plan de acción con cronograma para llevar el prototipo entregado a
 
 Se espera que cada persona que participe en el desarrollo del reto, pueda clonar el presente repositorio y evidenciar el trabajo realizado a traves del mismo, de esta forma aunque el entregable es el video (debe quedar en el repositorio), se cuenta con el soporte del trabajo realizado. 
 
+
 # Nota: 
 Se deberá entregar al enlace que se dispondrá (GitHub) el miércoles 25 de marzo antes de las 12:00 horas.
 
@@ -82,3 +83,8 @@ Nota: La hoja de vida sera revisada en el momento de la evaluación, para eviden
 Jueves 26 de marzo 8:00am.
 
 Nota: La propiedad intelectual de los desarrollos relacionados a este reto sera unicamnte de los participantes, la Alcaldia de Bucaramanga no solicitará la cesión de los derechos de ninguna implementación.
+
+# 6.  Dudas 
+Cualquier duda u observación a traves del siguiente canal de Slack
+https://join.slack.com/t/alcaldiadebucaramanga/shared_invite/zt-d21gz8f9-hGwhCbpexdCngoQfg9t36A
+
