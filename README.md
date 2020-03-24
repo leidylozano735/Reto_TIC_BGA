@@ -57,19 +57,24 @@ Se realizará a través de un jurado de 3 expertos del equipo técnico de la Ofi
 Para la revisión de los videos se utilizarán los siguientes criterios de evaluación: 
 
 a. Estado del Desarrollo : 30% 
-   Descripción: Definición  clara contundente junto con un avance soportado de la implementación
-b. Técnicas Aplicadas: 15% 
-   Descripción: Variedad, rigor y pertinencia de las tecnicas aplicadas con el respectivo soporte de su aplicación
-c. Valor diferenciador: 15% 
-   Descripción: Definición del valor entregado su Diferenciación e innovación con el respectivo soporte de la incorporación
-d. Proyección en tiempo de una implementación de una versión estable: 15%
-   Descripción: Definición coherente  de cada una de las actividades requeridas sus tiempos y fechas de entrega 
-e. Caracteristicas del prototipo: 15%
-   Descripción: Definición de cada una de las caracteristicas y funcionalidades desarrolladas con su respectivo soporte
-f. Tecnologías usadas: 10%
-   Descripción: Descripción de cada una de las tecnologías usadas en cada aspecto o área con su respectivo soporte
+Descripción: Definición  clara contundente junto con un avance soportado de la implementación.
 
-Los soportes serán evidenciados a traves de cada uno de los repositorios de cada persona
+b. Técnicas Aplicadas: 15% 
+Descripción: Variedad, rigor y pertinencia de las tecnicas aplicadas con el respectivo soporte de su aplicación.
+
+c. Valor diferenciador: 15% 
+Descripción: Definición del valor entregado su Diferenciación e innovación con el respectivo soporte de la incorporación.
+
+d. Proyección en tiempo de una implementación de una versión estable: 15%
+Descripción: Definición coherente  de cada una de las actividades requeridas sus tiempos y fechas de entrega.
+
+e. Caracteristicas del prototipo: 15%
+Descripción: Definición de cada una de las caracteristicas y funcionalidades desarrolladas con su respectivo soporte.
+
+f. Tecnologías usadas: 10%
+Descripción: Descripción de cada una de las tecnologías usadas en cada aspecto o área con su respectivo soporte.
+
+Los soportes serán evidenciados a traves de cada uno de los repositorios.
 
 Nota: La hoja de vida sera revisada en el momento de la evaluación, para evidenciar el cumplimiento del perfil, por lo cual persona que no cuente con la hoja vida el día del cierre, no será tenido en cuenta.
 
