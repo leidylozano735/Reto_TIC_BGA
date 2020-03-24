@@ -1,18 +1,19 @@
-# reto_visualizacion_datos
+# Reto_visualizacion_datos
 Desde la Oficina TIC de la Alcaldía de Bucaramanga y el Observatorio Digital Municipal, estamos en busca de lo mejores perfiles para que nos brinden apoyo en la identificación, análisis y visualización de la información de la ciudad entorno a combatir la Emergencia Sanitaria de COVID-19.
 
-# OBJETIVO
+# Objetivo
 Identificar Talentos que puedan desarrollar un prototipo de Dashboard de Control de Mando que permita:
+
 a.	La visualización de información relevante sobre la data existente de los ejes para la ciudad de Bucaramanga sobre Seguridad, Salud, Ambiente,  Abastecimiento entre otros.
 
 b.	Realizar control y seguimiento a variables y estadísticas descriptivas de la información de cada área.
 
 c.	Identificar tendencias y comportamientos que puedan ser significativos para la toma de decisiones en la ciudad y su área metropolitana.
 
-# PERFIL DE LOS PARTICIPANTES 
+# Perfil de los participantes 
 Profesionales con experiencia de mas de 1 año en análisis de datos, estadística y/o machine learning que cuenten con proyectos realizados a la fecha para la procesamiento y visualización de grandes volúmenes de información.
 
-# MECANICA 
+# Mecánica 
 Se realizarán las siguientes etapas para llevar a cabo el proceso de selección de los perfiles mas destacados:
 
 # 1.	Registro: 
