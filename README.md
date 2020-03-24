@@ -4,7 +4,9 @@ Desde la Oficina TIC de la Alcaldía de Bucaramanga y el Observatorio Digital Mu
 # OBJETIVO
 Identificar Talentos que puedan desarrollar un prototipo de Dashboard de Control de Mando que permita:
 a.	La visualización de información relevante sobre la data existente de los ejes para la ciudad de Bucaramanga sobre Seguridad, Salud, Ambiente,  Abastecimiento entre otros.
+
 b.	Realizar control y seguimiento a variables y estadísticas descriptivas de la información de cada área.
+
 c.	Identificar tendencias y comportamientos que puedan ser significativos para la toma de decisiones en la ciudad y su área metropolitana.
 
 # PERFIL DE LOS PARTICIPANTES 
@@ -24,10 +26,15 @@ Las personas que se inscriban recibirán el Dataset con registros simulados de c
 Cada inscrito tendrá 24 horas para desarrollar una solución y grabar un video de no mas de 5 minutos de explicación del prototipo en funcionamiento indicando:
 
 a.	Estado del Desarrollo
+
 b.	Tecnologías usadas
+
 c.	Técnicas aplicadas
+
 d.	Características del Prototipo
+
 e.	Valor diferenciador
+
 f.	Proyección en tiempo de una implementación de una versión estable.
 
 # Nota: 
