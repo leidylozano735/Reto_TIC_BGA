@@ -24,6 +24,8 @@ Enlace de registro: https://bucaramanga.typeform.com/to/pkhyLc
 Las personas que se inscriban recibirán el Dataset con registros simulados de cada una de las áreas que se requiere procesar y visualizar el martes 24 de marzo a las 12:00 horas.
 El Dataset se entregará a traves del presente repostorio de GitHub, y corresponde a un archivo de Excel que cuenta con datos simulados (no necesariamente ajustados a la realidad de la ciudad) de cuatro áreas principales como lo son Seguridad y convivencia, Transito, Agua, Abastecimiento. Los Dataset contemplan diferentes variables por área y cuentan con información de alrededor de 40 dias en promedio por variable. 
 
+# Ver achivo en el siguiente link: https://github.com/Oficina-TIC-BGA/reto_visualizacion_datos/blob/master/bga_data_simulada_240320.xlsx
+
 # 3.	Implementación del Prototipo: 
 Cada inscrito tendrá 24 horas para desarrollar una solución y grabar un video de no mas de 5 minutos de explicación del prototipo en funcionamiento indicando:
 
